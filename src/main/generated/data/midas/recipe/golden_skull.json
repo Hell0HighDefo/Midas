@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "golden_heads",
+  "key": {
+    "g": "minecraft:gold_ingot",
+    "h": "minecraft:skeleton_skull"
+  },
+  "pattern": [
+    "ggg",
+    "ghg",
+    "ggg"
+  ],
+  "result": {
+    "id": "midas:golden_skull"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "midas:item/template_golden_head",
+  "textures": {
+    "head": "midas:item/golden_head/wither_skeleton"
+  }
+}

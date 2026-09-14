@@ -1,0 +1,15 @@
+{
+  "item.midas.golden_head": "Golden Head",
+  "item.midas.golden_zombie_head": "Golden Zombie Head",
+  "item.midas.golden_creeper_head": "Golden Creeper Head",
+  "item.midas.golden_skull": "Golden Skull",
+  "item.midas.golden_wither_skeleton_skull": "Golden Wither Skeleton Skull",
+  "item.midas.golden_piglin_head": "Golden Piglin Head",
+  "item.midas.golden_dragon_head": "Golden Dragon Head",
+  "tag.item.midas.golden_heads": "Golden Heads",
+  "midas.midnightconfig.goldenHeadConsumeSeconds": "Consumption Time (in seconds)",
+  "midas.midnightconfig.goldenHeadNutrition": "Nutrition",
+  "midas.midnightconfig.goldenHeadSaturation": "Saturation",
+  "midas.midnightconfig.goldenHeadCooldown": "Cooldown (in seconds)",
+  "midas.midnightconfig.title": "Midas"
+}
