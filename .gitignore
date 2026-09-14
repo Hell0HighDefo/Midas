@@ -38,3 +38,14 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+src/main/resources
+
+# reference images
+
+*.png
+*.pdn
+
+src/main/generated/.cache
+
+# datagen cache
