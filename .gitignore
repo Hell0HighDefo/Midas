@@ -45,6 +45,7 @@ src/main/resources
 
 *.png
 *.pdn
+*.gif
 
 src/main/generated/.cache
 
