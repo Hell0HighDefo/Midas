@@ -11,7 +11,7 @@
 		"homepage": "https://modrinth.com/mod/midas-golden-heads",
 		"sources": "https://github.com/Hell0HighDefo/Midas"
 	},
-	"license": "CC0-1.0",
+	"license": "ARR",
 	"icon": "assets/midas/icon.png",
 	"environment": "*",
 	"entrypoints": {
