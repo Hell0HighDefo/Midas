@@ -14,6 +14,18 @@
 
 ![A player crafting a Golden Head by surrounding a player head with 8 gold ingots](https://raw.githubusercontent.com/Hell0HighDefo/Midas/a9450c4285663d3e935ebba9b3a5de5173cf56a0/.webassets/golden_head_crafting.gif)
 
+## Configuration
+Most of the Golden Head stats are able to be configured
+
+- Consumption Time (in seconds)
+  - How long it takes to eat a Golden Head
+- Nutrition
+  - How much hunger Golden Heads give when eaten
+- Saturation
+  - How much saturation Golden Heads give when eaten
+- Cooldown (in seconds)
+  - Cooldown between Golden Head consumption
+
 
 ## Compatibility 
 **[Enchancement](https://modrinth.com/mod/enchancement)** is recommended to use alongside **Midas** to ease the collection of mob heads, try getting **Beheading** on an axe. 
