@@ -14,6 +14,24 @@
 
 ![A player crafting a Golden Head by surrounding a player head with 8 gold ingots](https://raw.githubusercontent.com/Hell0HighDefo/Midas/a9450c4285663d3e935ebba9b3a5de5173cf56a0/.webassets/golden_head_crafting.gif)
 
+## Effects
+All Golden Heads give Regeneration III (5secs) and Absorption II (2mins) innately, but the different heads give you different effects.
+
+- Golden Head
+  - Speed II (14secs)
+- Golden Skull
+  - Night Vision (1min 45secs)
+- Golden Wither Skeleton Skull
+  - Strength II (10secs)
+- Golden Zombie Head
+  - Saturation (50ms)
+- Golden Creeper Head
+  - Haste II (30secs)
+- Golden Piglin Head
+  - Fire Resistance (1min 30secs)
+- Golden Dragon Head
+  - Resistance III (10secs)
+
 ## Configuration
 Most of the Golden Head stats are able to be configured
 
