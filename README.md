@@ -1,6 +1,12 @@
 <div align="center">
   <h1>Midas</h1>
   <h3>Adds Golden Heads inspired by Hoplite</h3>
+  <a href="https://modrinth.com/mod/midnightlib">
+    <img src="https://github.com/Hell0HighDefo/Midas/raw/refs/heads/master/.webassets/badge/midnightlib/cozy_vector.svg">
+  </a>
+<a href="https://modrinth.com/mod/enchancement">
+    <img src="https://github.com/Hell0HighDefo/Midas/raw/refs/heads/master/.webassets/badge/enchancement/cozy_vector.svg">
+  </a>
 </div>
 
 ## Crafting
