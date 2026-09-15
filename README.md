@@ -36,13 +36,13 @@ All Golden Heads give Regeneration III (5secs) and Absorption II (2mins) innatel
 Most of the Golden Head stats are able to be configured
 
 - Consumption Time (in seconds)
-  - How long it takes to eat a Golden Head
+  - How long it takes to eat a Golden Head (default: 0.0)
 - Nutrition
-  - How much hunger Golden Heads give when eaten
+  - How much hunger Golden Heads give when eaten (default: 0)
 - Saturation
-  - How much saturation Golden Heads give when eaten
+  - How much saturation Golden Heads give when eaten (default: 0.0)
 - Cooldown (in seconds)
-  - Cooldown between Golden Head consumption
+  - Cooldown between Golden Head consumption (default: 1.0)
 
 
 ## Compatibility 
